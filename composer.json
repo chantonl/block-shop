@@ -1,0 +1,19 @@
+{
+    "name": "chantonl/block-shop",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "theme"
+    ],
+    "homepage": "https://github.com/chantonl/block-shop",
+    "authors": [
+        {
+            "name": "GetBowtied",
+            "homepage": "https://getbowtied.com"
+        }
+    ],
+    "type": "wordpress-theme",
+    "require": {
+        "php": ">=5.6"
+    }
+}
